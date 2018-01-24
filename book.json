@@ -1,0 +1,18 @@
+{
+	"title": "Ubuntu开发环境搭建指南",
+	"description": "Ubuntu下Node.js、PHP、Python、Java开发环境搭建指南",
+	"author": "tumobi",
+	"language": "zh-hans",
+	"root": "book",
+	"plugins": [
+		"-lunr",
+		"-highlight",
+		"theme-comscore",
+		"baidu"
+	],
+	"pluginsConfig": {
+		"baidu": {
+			"token": "f2b15ae1752b95329ed62bb15c2a9787"
+		}
+	}
+}
