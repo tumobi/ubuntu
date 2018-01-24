@@ -29,7 +29,7 @@
   * [Composer](php-kai-fa/composer.md)
   * Laravel
   * ThinkPHP
-* [Java 开发](java-kai-fa.md)
 * [Python 开发](python-kai-fa.md)
+* [Java 开发](java-kai-fa.md)
 * [常见问题](chang-jian-wen-ti.md)
 
