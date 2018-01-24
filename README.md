@@ -1,3 +1,3 @@
-# My Awesome Book
+# 概述
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+欢迎使用《Ubuntu开发环境搭建指南》，使用过程中如碰到问题，请到 [Github]() 进行提问。
