@@ -6,11 +6,10 @@
   * [基本设置](chapter1/ji-ben-she-zhi.md)
   * [推荐软件](chapter1/tui-jian-ruan-jian.md)
   * 常用快捷键
-* [通用环境](tong-yong-huan-jing.md)
+* [通用开发](tong-yong-huan-jing.md)
   * [Git](tong-yong-huan-jing/git.md)
   * [终端](tong-yong-huan-jing/zhong-duan.md)
   * [Nginx](tong-yong-huan-jing/nginx.md)
-  * [Docker](tong-yong-huan-jing/docker.md)
   * [Docker](tong-yong-huan-jing/docker.md)
 * [数据库](shu-ju-ku.md)
   * [MySQL](shu-ju-ku/mysql.md)
