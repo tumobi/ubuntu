@@ -33,4 +33,5 @@ sudo systemctl enable nginx
   ```
 + 创建一个站点
 
-
+### 参考链接
++ https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04
