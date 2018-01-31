@@ -45,3 +45,4 @@
 
 ### 其它
  + KeePassX
+ + [albert - Linux 平台下类似于 Mac Alfred 效率神器。](https://github.com/albertlauncher/albert)
