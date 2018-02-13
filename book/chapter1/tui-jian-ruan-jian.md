@@ -7,7 +7,7 @@
 
 ### 文档
 + WPS
-+ MarkDown 编辑器
++ typora - MarkDown 编辑器
 + 印象笔记
 + 蚂蚁笔记
 + CHM 阅读 ChmSee
